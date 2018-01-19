@@ -14,7 +14,9 @@ and open the template in the editor.
 	function myFunction($myString){
 	    return $myString;
 	}
-	
+	/**        
+         * my Function          
+         */
 	echo myFunction('<a class="mylink" href="#">this is test function to test the Git</a>');
 	?>
     </body>
