@@ -11,7 +11,11 @@ and open the template in the editor.
     </head>
     <body>
 	<?php
-	// put your code here
+	function myFunction($myString){
+	    return $myString;
+	}
+	
+	echo myFunction('this is test function to test the Git');
 	?>
     </body>
 </html>
