@@ -17,7 +17,7 @@ and open the template in the editor.
 	/**        
          * my Function          
          */
-	echo myFunction('<a class="mylink" href="#">this is test function to test the Git</a> ok ');
+	echo myFunction('<a class="mylink" href="#">this is test function to test the Git</a> ');
 	?>
     </body>
 </html>
