@@ -14,8 +14,10 @@ and open the template in the editor.
 	function myFunction($myString){
 	    return $myString;
 	}
-	
-	echo myFunction('<a class="mylink" href="#">this is test function to test the Git</a> Ok');
+	/**        
+         * my Function          
+         */
+	echo myFunction('<a class="mylink" href="#">this is test function to test the Git</a>');
 	?>
     </body>
 </html>
