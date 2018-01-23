@@ -11,13 +11,16 @@ and open the template in the editor.
     </head>
     <body>
 	<?php
+	/**        
+         * 
+	 * @param stirng $myString any string 
+	 * @return String this function return string  
+	 *          
+         */
 	function myFunction($myString){
 	    return $myString;
 	}
-	/**        
-         * my Function          
-         */
-	echo myFunction('test');
+	echo myFunction();
 	?>
     </body>
 </html>
