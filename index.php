@@ -14,7 +14,7 @@ and open the template in the editor.
 	/**        
          * 
 	 * @param stirng $myString any string 
-	 * @return String this function return string  
+	 * @return String this function return string !!!!!  
 	 *          
          */
 	function myFunction($myString){
